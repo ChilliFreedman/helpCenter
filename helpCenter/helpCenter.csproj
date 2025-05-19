@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Blockages.cs" />
+    <Compile Include="DispatchCenter.cs" />
+    <Compile Include="EmergencyTeams.cs" />
+    <Compile Include="Floods.cs" />
+    <Compile Include="Injuries.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RepresentAnEmergencyReport.cs" />

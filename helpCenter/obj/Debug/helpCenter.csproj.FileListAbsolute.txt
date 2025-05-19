@@ -1,0 +1,7 @@
+C:\Users\חילי פרידמן\source\repos\helpCenter\helpCenter\bin\Debug\helpCenter.exe.config
+C:\Users\חילי פרידמן\source\repos\helpCenter\helpCenter\bin\Debug\helpCenter.exe
+C:\Users\חילי פרידמן\source\repos\helpCenter\helpCenter\bin\Debug\helpCenter.pdb
+C:\Users\חילי פרידמן\source\repos\helpCenter\helpCenter\obj\Debug\helpCenter.csproj.AssemblyReference.cache
+C:\Users\חילי פרידמן\source\repos\helpCenter\helpCenter\obj\Debug\helpCenter.csproj.CoreCompileInputs.cache
+C:\Users\חילי פרידמן\source\repos\helpCenter\helpCenter\obj\Debug\helpCenter.exe
+C:\Users\חילי פרידמן\source\repos\helpCenter\helpCenter\obj\Debug\helpCenter.pdb

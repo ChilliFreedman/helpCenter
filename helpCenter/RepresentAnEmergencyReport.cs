@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace helpCenter
 {
-    internal class RepresentAnEmergencyReport
+    internal class EmergencyReport
     {
         //Type of incident(like "Flood", "Injury", "Blockage")○ Area of the city(zone)
         //○ How serious it is ○ How long the problem might last ○ A short description
@@ -16,6 +16,15 @@ namespace helpCenter
         internal int HowSeriousItIs;
         internal string MightLast;
         internal string ShortDescription;
+
+        internal EmergencyReport(string typeOfIncident,string areaOfTheCity,int howSeriousItIs,string mightLast,string shortDescription)
+        {
+            this.TypeOfIncident = typeOfIncident;
+            this.AreaOfTheCity = areaOfTheCity;
+            this.HowSeriousItIs = howSeriousItIs;
+            this.MightLast = mightLast;
+            this.ShortDescription = shortDescription;
+        }
 
 
 
