@@ -24,7 +24,7 @@ namespace helpCenter
 
         internal override void RespondCheck()
         {
-            Console.WriteLine("flood team are on the way");
+            Console.WriteLine($"{this.name} team are on the way");
         }
 
     }    
